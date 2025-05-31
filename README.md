@@ -8,9 +8,13 @@ ajeno a la empresa. Ha cambiado la contraseña del usuario
 en las tablas. Encuentra la contraseña y la flag almacenada en la base de datos.</h4>
 
 Puedes acceder a la base de datos mediante la URL `postgres://localhost:5432/story_boris_db`, pero antes debes ejecutar docker:
-- docker build -t story_boris .
-- docker run -d -p 5432:5432 --name story_boris_container story_boris
-
+```
+docker build -t story_boris .
+```
+```
+docker run -d -p 5432:5432 --name story_boris_container story_boris
+```
+<br>
 
 # PISTAS
 ## PISTA 1
