@@ -28,6 +28,8 @@ flag{A8#kTz5!pX@r1qLd2V$wJ9@bYqE7zFz!J3m@N4K&hL0vX}
 <details>
     <summary> Cúrratelo anda 😉, y si ves que nada, pulsa aquí para ver la solución</summary>
     En efecto, hay dos formas de resolver esto:
+    <br>
     - Inspeccionando la página y ver la referencia a app.js, donde hay un método que si lo ejecutamos nos devuelve la flag.
+    <br>
     - Si hacemos fuzzing podremos encontrar una carpeta hidden, lo que nos interesa para investigar, topándonos al final con el fichero de la flag.
 </details>
