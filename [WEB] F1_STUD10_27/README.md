@@ -16,12 +16,13 @@ docker run -d -p 80:80 flstudio27_free
 
 # PISTAS
 ## PISTA 1
-  
+- Ay las webs... Llenas de entresijos
 ## PISTA 2
-
+- Hay dos maneras de conseguir la flag
 ## PISTA 3
-
+- Quizas la clave no está en la interfaz...
 ## Flag
+flag{A8#kTz5!pX@r1qLd2V$wJ9@bYqE7zFz!J3m@N4K&hL0vX}
 
 ## Solución
 <details>
