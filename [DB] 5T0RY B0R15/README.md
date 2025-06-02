@@ -1,4 +1,4 @@
-# 🧩 [MISC] 5T0RY B0R15
+# 🧩 [DB] 5T0RY B0R15
 ## ENUNCIADO
 <h4>
 La base de datos de la película 'Story Boris' story_boris_db
